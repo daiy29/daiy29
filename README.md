@@ -3,10 +3,10 @@ Hello, I'm Mike ![Wave Gif](https://i.pinimg.com/originals/89/28/04/892804792541
 </h1>
 
                  
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:yucheng.mike.dai@gmail.com")](mailto:yucheng.mike.dai@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yucheng.mike.dai@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uJX2HnEv2J)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yucheng-mike-dai/)
-[![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://www.mikedai.ca)
+[![Website Badge](https://img.shields.io/badge/Website-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://www.mikedai.ca)
 
 
 <p>
