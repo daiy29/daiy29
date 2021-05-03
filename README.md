@@ -1,22 +1,22 @@
 <h1 align='center'>
 Hello, I'm Mike
 </h1>
----
+
+<div align="center">
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:yucheng.mike.dai@gmail.com")](mailto:yucheng.mike.dai@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uJX2HnEv2J)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yucheng-mike-dai/)
 [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://www.mikedai.ca)
+</div>
 
 <p align='center'>
   I'm currently a 3rd year computer science student at McMaster University, with an interest in full-stack development
 </p>
-<p align='center'>
-  I'm currently a 3rd year computer science student at McMaster University, with an interest in full-stack development
-</p>
+
 <h2 align='center'>
 My Skills
 </h2>
----
+
 ![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -45,14 +45,14 @@ My Skills
 ![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
----
+
 <h1 align='center'>
 What I'm listening to
 </h1>
 <div align='center'>
 
 </div>
----
+
 <h1 align='center'>
 Profile Stats
 </h1>
