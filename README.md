@@ -10,7 +10,7 @@ Hello, I'm Mike
 
 
 <p>
-  I'm currently a 3rd year computer science student at McMaster University, with an interest in full-stack development
+  I'm a 3rd year computer science student at McMaster University, with an interest in full-stack development.
 </p>
 
 <h2>
