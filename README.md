@@ -53,10 +53,12 @@ What I'm listening to
 ![Spotify](https://daiy29.vercel.app/api/spotify)
 
 <h2>
-Profile Stats
+Profile Stats and Vistor Count
 </h2>
 <div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daiy29&layout=compact)
+  
+![ya](https://github-readme-stats.vercel.app/api/top-langs/?username=daiy29&layout=compact)
+<br/>
 ![Visitor Count](https://profile-counter.glitch.me/{daiy29}/count.svg)
 </div>
 
