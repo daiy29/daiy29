@@ -1,7 +1,9 @@
 <h1 align='start'>
-Hello, I'm Mike ![Wave Gif](https://i.pinimg.com/originals/89/28/04/8928047925413253c6b2665a870b4846.gif)
+Hello, I'm Mike 👨‍💻
 </h1>
 
+
+![wave](https://i.pinimg.com/originals/89/28/04/8928047925413253c6b2665a870b4846.gif)
                  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yucheng.mike.dai@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uJX2HnEv2J)
