@@ -49,12 +49,6 @@ My Skills
 ![VSCode Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 <h2>
-What I'm listening to
-</h2>
-
-![Spotify](https://daiy29.vercel.app/api/spotify)
-
-<h2>
 Profile Stats and Vistor Count
 </h2>
 <div>
