@@ -49,9 +49,8 @@ My Skills
 <h2>
 What I'm listening to
 </h2>
-<div>
 
-</div>
+![Spotify](https://daiy29.vercel.app/api/spotify)
 
 <h2>
 Profile Stats
