@@ -57,7 +57,7 @@ What I'm listening to
 Profile Stats
 </h2>
 <div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daiy29&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daiy29&layout=compact)
 ![Visitor Count](https://profile-counter.glitch.me/{daiy29}/count.svg)
 </div>
 
