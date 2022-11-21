@@ -24,7 +24,7 @@ Hello, I'm Mike 👨‍💻
 
 
 <p align='center'>
-  I'm a 3rd year computer science student at McMaster University, with an interest in full-stack development.
+  I'm a computer science student at McMaster University, with an interest in full-stack development.
 </p>
 
 <h2 align='center'>
